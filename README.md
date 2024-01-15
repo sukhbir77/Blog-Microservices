@@ -1,6 +1,6 @@
 # Online Blog Website with Microservices Architecture
 
-This repository showcases an Online Blog Website developed using a microservices architecture. The project consists of various services including a front-end client, comments service, custom event bus, comment moderation service, posts service, and query service. The technologies utilized include Node.js, Express, Redis, RESTful API, React, JavaScript, and an event bus for communication between services.
+Explore this Online Blog Website, a robust platform developed with a microservices architecture. The project comprises a front-end client, comments service, custom event bus, comment moderation service, posts service, and query service. Each microservice plays a specific role in delivering a seamless and efficient blogging experience.
 
 ## Microservices
 
