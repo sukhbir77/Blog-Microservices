@@ -30,4 +30,4 @@ Explore this Online Blog Website, a robust platform developed with a microservic
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sukhbir77/Blog-Microservices.git
+   git clone https://github.com/sukhbir77/blog-website-microservices.git
